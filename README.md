@@ -4,7 +4,7 @@ Este repositório contém materiais e recursos relacionados à programação par
 
 ## Conteúdo
 
-- **Códigos de Exemplo:** Este diretório contém exemplos de códigos em várias linguagens de programação relevantes para engenharia, como Python, MATLAB, C++, entre outros.
+- **Códigos de Exemplo:** Este diretório contém exemplos de códigos em várias linguagens de programação relevantes para engenharia, como Python, Java, C++, entre outros.
 
 - **Projetos:** Aqui estão projetos práticos que aplicam conceitos de programação em cenários reais de engenharia, como análise de dados, simulações, automação, entre outros.
 
